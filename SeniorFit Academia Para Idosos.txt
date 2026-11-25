@@ -1,0 +1,69 @@
+====================================================
+RELATÓRIO FINAL — AGÊNCIA DIGITAL (TEMA 02)
+Estratégia de Conteúdo Avançada
+Data: 25/11/2026, 16:10:16
+Missões concluídas: 0 de 12
+====================================================
+
+🏪 NEGÓCIO ESCOLHIDO
+Nome: SeniorFit Academia para Sênior
+Tipo: Academia
+Descrição:  Uma academia especializada na melhor idade, promovendo saúde, qualidade de vida, autonomia e bem-estar por meio de atividades físicas adaptadas.
+
+----------------------------------------------------
+🎯 MISSÕES PRÁTICAS
+----------------------------------------------------
+[ ] 🎭 Persona
+    → Dona Maria, 60 anos procura ser saudável e se exercitar
+
+[ ] 🎯 Objetivo SMART
+    → A SeniorFit tem como objetivo matricular 50 idosos nos primeiros 6 meses de funcionamento, oferecendo atividades físicas adaptadas e acessíveis, que promovam a saúde, melhorem a força, o equilíbrio e a mobilidade.
+
+[ ] 🗺️ Jornada do Consumidor
+    → O idoso conhece a SeniorFit por meio de indicações de amigos, familiares, redes sociais -> Pesquisa sobre os benefícios da academia, compara os serviços oferecidos. -> Decisão: Visita a SeniorFit, participa de uma aula experimental e realiza sua matrícula
+
+[ ] 💡 Tópicos de Conteúdo
+    → Benefícios da atividade física na terceira idade, exercícios para melhorar o equilíbrio, importância do fortalecimento muscular, Saúde mental e atividade física 
+
+[ ] ✍️ Conteúdo (publicação)
+    → Pretende se exercitar ou se sentir saudável? Sente que não consegue fazer o movimentos do corpo com antes? Na SeniorFit, acreditamos que nunca é tarde para começar a cuidar de si mesmo! Oferecemos atividades físicas adaptadas para idosos, respeitando os limites e as necessidades de cada pessoa.
+
+[ ] 📢 Distribuição
+    → WhatsApp, Facebook, Radio Local e possivelmente o Instagram
+
+[ ] 🎯 Personalização
+    → Versão A (Idosos):  "Cuide da sua saúde, fortaleça seu corpo e mantenha sua independência! Na SeniorFit, você encontra atividades físicas adaptadas para viver a melhor idade com mais disposição, saúde e alegria."  Versão B (Familiares):  "Proporcione mais qualidade de vida para quem você ama! Na SeniorFit, seus familiares encontram atividades físicas seguras e adaptadas, que ajudam a melhorar a saúde, a mobilidade e o bem-estar."
+
+[ ] 🔍 SEO
+    → Palavra-chave: Academia para idosos.  Título: SeniorFit | Academia Especializada na Terceira Idade.  Descrição: A SeniorFit oferece atividades físicas adaptadas para idosos, promovendo saúde, mobilidade, autonomia, bem-estar e qualidade de vida na melhor idade.
+
+[ ] ❤️ Engajamento
+    → Chamada para ação: "Venha fazer parte da SeniorFit! Agende uma aula experimental e comece hoje mesmo a cuidar da sua saúde e qualidade de vida!"  Pergunta para interação: "Qual atividade física você gostaria de praticar para ter uma vida mais saudável e ativa na melhor idade?"
+
+[ ] 🔄 Iteração
+    → Avaliar a quantidade de idosos interessados, o número de matrículas realizadas e o engajamento nas publicações das redes sociais. Testar diferentes mensagens de divulgação e chamadas para ação, identificando quais geram mais interesse. Após 2 semanas, analisar os resultados e ajustar as estratégias para atrair mais alunos e melhorar a comunicação com idosos e familiares.
+
+[ ] 🚀 Tendências
+    → Envelhecimento ativo e saudável: A busca por qualidade de vida na terceira idade está crescendo. A SeniorFit pode aproveitar essa tendência oferecendo aulas adaptadas e divulgando vídeos curtos com exercícios simples, dicas de saúde e cuidados com o corpo, incentivando os idosos a manterem uma rotina mais ativa e saudável.
+
+[ ] 🕵️ Concorrência
+    → Concorrente: Academias tradicionais que oferecem musculação e atividades físicas para o público em geral.  Pontos fortes: Possuem equipamentos variados, profissionais capacitados e estrutura para diferentes tipos de exercícios.  Pontos fracos: Nem sempre oferecem atendimento especializado, atividades adaptadas e acompanhamento individualizado para idosos.  Diferencial da SeniorFit: Oferecer um ambiente acolhedor, seguro e especializado na terceira idade, com exercícios adaptados às necessidades dos idosos, promovendo saúde, autonomia e qualidade de vida.
+
+----------------------------------------------------
+📄 PÁGINA DE CONTEÚDO (mini-editor)
+----------------------------------------------------
+Título SEO: SeniorFit
+URL amigável: https://seusite.com.br/academia-para-senior
+Meta description: Academia especializada em idosos, oferecendo exercícios físicos adaptados para promover saúde, força, equilíbrio, autonomia e qualidade de vida na melhor idade.
+Corpo do conteúdo:
+Quer envelhecer com mais saúde, disposição e qualidade de vida?
+
+Descubra como a prática de atividades físicas pode transformar sua rotina! Na SeniorFit, oferecemos exercícios adaptados para idosos, ajudando a fortalecer os músculos, melhorar o equilíbrio, aumentar a mobilidade e prevenir quedas.
+
+Com acompanhamento e atenção às necessidades de cada aluno, nosso objetivo é proporcionar mais independência, autoestima e bem-estar.
+
+SeniorFit – Porque nunca é tarde para cuidar de você! ❤️
+
+====================================================
+FIM DO RELATÓRIO
+====================================================
