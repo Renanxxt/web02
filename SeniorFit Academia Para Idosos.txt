@@ -17,7 +17,7 @@ Descrição:  Uma academia especializada na melhor idade, promovendo saúde, qua
     → Dona Maria, 60 anos procura ser saudável e se exercitar
 
 [ ] 🎯 Objetivo SMART
-    → A SeniorFit tem como objetivo matricular 50 idosos nos primeiros 6 meses de funcionamento, oferecendo atividades físicas adaptadas e acessíveis, que promovam a saúde, melhorem a força, o equilíbrio e a mobilidade.
+    → A SeniorFit tem como objetivo matricular 20 idosos nos primeiros 2 semanas de funcionamento, oferecendo atividades físicas adaptadas e acessíveis, que promovam a saúde, melhorem a força, o equilíbrio e a mobilidade.
 
 [ ] 🗺️ Jornada do Consumidor
     → O idoso conhece a SeniorFit por meio de indicações de amigos, familiares, redes sociais -> Pesquisa sobre os benefícios da academia, compara os serviços oferecidos. -> Decisão: Visita a SeniorFit, participa de uma aula experimental e realiza sua matrícula
@@ -41,7 +41,7 @@ Descrição:  Uma academia especializada na melhor idade, promovendo saúde, qua
     → Chamada para ação: "Venha fazer parte da SeniorFit! Agende uma aula experimental e comece hoje mesmo a cuidar da sua saúde e qualidade de vida!"  Pergunta para interação: "Qual atividade física você gostaria de praticar para ter uma vida mais saudável e ativa na melhor idade?"
 
 [ ] 🔄 Iteração
-    → Avaliar a quantidade de idosos interessados, o número de matrículas realizadas e o engajamento nas publicações das redes sociais. Testar diferentes mensagens de divulgação e chamadas para ação, identificando quais geram mais interesse. Após 2 semanas, analisar os resultados e ajustar as estratégias para atrair mais alunos e melhorar a comunicação com idosos e familiares.
+    → Avaliar a quantidade de idosos interessados, o número de matrículas realizadas e o engajamento nas publicações das redes sociais. Testar diferentes mensagens de divulgação e chamadas para ação, identificando quais geram mais interesse. Após 3 dias, analisar os resultados e ajustar as estratégias para atrair mais alunos e melhorar a comunicação com idosos e familiares.
 
 [ ] 🚀 Tendências
     → Envelhecimento ativo e saudável: A busca por qualidade de vida na terceira idade está crescendo. A SeniorFit pode aproveitar essa tendência oferecendo aulas adaptadas e divulgando vídeos curtos com exercícios simples, dicas de saúde e cuidados com o corpo, incentivando os idosos a manterem uma rotina mais ativa e saudável.
@@ -52,7 +52,7 @@ Descrição:  Uma academia especializada na melhor idade, promovendo saúde, qua
 ----------------------------------------------------
 📄 PÁGINA DE CONTEÚDO (mini-editor)
 ----------------------------------------------------
-Título SEO: SeniorFit
+Título SEO:
 URL amigável: https://seusite.com.br/academia-para-senior
 Meta description: Academia especializada em idosos, oferecendo exercícios físicos adaptados para promover saúde, força, equilíbrio, autonomia e qualidade de vida na melhor idade.
 Corpo do conteúdo:
