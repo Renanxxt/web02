@@ -52,7 +52,7 @@ Descrição:  Uma academia especializada na melhor idade, promovendo saúde, qua
 ----------------------------------------------------
 📄 PÁGINA DE CONTEÚDO (mini-editor)
 ----------------------------------------------------
-Título SEO:
+Título SEO: SeniorFit | Academia Especializada na Terceira Idade
 URL amigável: https://seusite.com.br/academia-para-senior
 Meta description: Academia especializada em idosos, oferecendo exercícios físicos adaptados para promover saúde, força, equilíbrio, autonomia e qualidade de vida na melhor idade.
 Corpo do conteúdo:
